@@ -51,6 +51,6 @@ PS C:\Windows\system32> function Saudacao {
 >> Saudacao -nome "Daniel"
 >> Saudacao -nome "Daniel" -cumprimento "Bom dia"
 Olá, Daniel!
-Bom dia, Amigo!
+Bom dia, Daniel!
 
 
