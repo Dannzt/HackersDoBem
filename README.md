@@ -6,4 +6,9 @@
 </div>
 
 ----------------------------
+<div align="center">
+    <img src="https://i.imgur.com/k0Ea39I.png" alt="Imagem 1" width="150">
+    <!--<img src="https://i.imgur.com/k0Ea39I.png" alt="Imagem 2" width="150"> -->
+</div>
+
 
